@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
           ),
           body: Center
               (
-                child: Text("Dart y Flutter => PDF y Json"),                              
+                child: Text("Dart y Flutter => PDF"),                              
              ),                  
 
       );
