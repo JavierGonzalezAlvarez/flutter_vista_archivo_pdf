@@ -57,15 +57,7 @@ class MenuLateral extends StatelessWidget {
                     },                                    
 
                 ),
-
-                ListTile(
-                    leading: Icon(Icons.exit_to_app, color: Colors.blue),
-                    title: Text('Salir'),   
-                    onTap: () {
-                        Navigator.pop(context);
-                    },
-                ),
-
+            
                 FloatingActionButton
                   ( 
                     elevation: 50.0,
