@@ -31,7 +31,7 @@ class MenuLateral extends StatelessWidget {
                  ),
         
                 ListTile(
-                    leading: Icon(Icons.file_download, color: Colors.blue),
+                    leading: Icon(Icons.open_in_new, color: Colors.blue),
                     title: Text('Ver fichero PDF'),                    
                     onTap: () 
                         {
