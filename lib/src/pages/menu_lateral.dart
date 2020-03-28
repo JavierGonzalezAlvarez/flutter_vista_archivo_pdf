@@ -44,7 +44,12 @@ class MenuLateral extends StatelessWidget {
 
                 ListTile(
                     leading: Icon(Icons.view_comfy, color: Colors.blue),
-                    title: Text('Ver Json en grilla'),          
+                    title: Text('Menu 2'),          
+                ),
+
+                ListTile(
+                    leading: Icon(Icons.view_comfy, color: Colors.blue),
+                    title: Text('Menu 3'),          
                 ),
 
                 ListTile(
